@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,12 +29,7 @@ Width:40%;
 } 
 <Img class ="img_deg" src="https://th.bing.com/th/id/OIP.0RRZkj8CHLzO_E_JRQTzswHaE8?pid=ImgDet&rs=1 ">
  </style>
-
-
-
-  
-   
-    <form action="backend.php">
+<form action="backend.php">
         <div>
             
       <br>
@@ -53,7 +48,7 @@ Width:40%;
           PinCode: <input type="text">
           </div><br>
          <div></div> Loan Amount: <input type="text">
-          Tenure: <input type="text"></div>
+          Tenure: <input type="text">
           <div><br> 
           Pan Card No: <input type="text">
           DOB: <input type="date" name="myDate">
@@ -84,7 +79,7 @@ Width:40%;
         </select><br><br>
         Are you eligible?:<input type="checkbox" name="myEligibility">
     </div><br>
-    <div><input type="Submit" value="Submit Now hi">
+    <div><input type="Submit" value="Submit Now">
          <input type="Reset" value="Reset Now"></div>
  </form>
     </body>
