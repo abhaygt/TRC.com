@@ -84,7 +84,7 @@ Width:40%;
         </select><br><br>
         Are you eligible?:<input type="checkbox" name="myEligibility">
     </div><br>
-    <div><input type="Submit" value="Submit Now">
+    <div><input type="Submit" value="Submit Now hi">
          <input type="Reset" value="Reset Now"></div>
  </form>
     </body>
